@@ -1,3 +1,5 @@
+rainbow version
+
 red
 orange
 yellow
