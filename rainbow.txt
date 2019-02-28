@@ -1,9 +1,10 @@
-rainbow version
+combined version
 
 red
 orange
 yellow
 green
 blue
-voilet
 purple
+
+end
