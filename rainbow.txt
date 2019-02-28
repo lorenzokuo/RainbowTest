@@ -1,4 +1,4 @@
-unicorn version
+combined version
 
 red
 orange
